@@ -262,5 +262,5 @@ The application will open in your browser.
 
 **Shruti Singh Kushwah**
 
-Machine Learning Project — Aircraft Engine Predictive Maintenance
+Machine Learning Project-> Aircraft Engine Predictive Maintenance
 
